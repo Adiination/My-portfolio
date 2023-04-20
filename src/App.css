@@ -16,4 +16,9 @@
   color: white;
 }
 
+#pic{
+  max-height: 240px;
+  max-width: fit-content;
+  margin-left: 0%;
 
+}
