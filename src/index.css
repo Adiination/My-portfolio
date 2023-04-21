@@ -21,3 +21,24 @@ ul li{
   list-style: none;
   
 }
+.btn {
+  padding: 12px 15px;
+  font-size: 1rem;
+  text-transform: uppercase;
+  background-color: #2C5487;
+  color: #fff;
+  border: 1px solid #fff;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn-light{
+  background: transparent;
+  color: #fff;
+}
+
+.btn:hover{
+  background-color:#2C5487;
+  color: #fff;
+  transition: 0.3s;
+}
