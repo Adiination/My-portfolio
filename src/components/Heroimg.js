@@ -9,6 +9,12 @@ const Heroimg = () => {
         <div className="mask">
             <img className="intro-img"
             src={Dp} alt="My Image"/>
+            <div className="content">
+              <p>Hi! This is Aditya Narayan</p>
+              <h1>Front End Developer</h1>
+
+
+            </div>
 
         </div>
 
